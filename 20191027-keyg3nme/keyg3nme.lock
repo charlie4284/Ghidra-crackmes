@@ -1,9 +1,0 @@
-#Ghidra Lock File
-#Sun Oct 27 13:42:17 HKT 2019
-OS\ Name=Linux
-OS\ Version=4.15.0-66-generic
-Username=yanks
-Hostname=yanks
-<META>\ Supports\ File\ Channel\ Locking=Channel Lock
-OS\ Architecture=amd64
-Timestamp=10/27/19, 1\:42 PM
